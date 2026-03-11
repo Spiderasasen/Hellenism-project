@@ -21,9 +21,10 @@ function Home(){
                 <h3>Welcome to Hellenism</h3>
                 <p>
                     Here you will learn that yes, we still worship the Greek gods.
-                    This might sound like a taboo, which if that's the case, im sorry you think that.
-                    But if you are curios to learn more of our religion, then we will welcome you with open arms.
-                    This website will tell you how i see this religion, so if you still skeptical, dont be for as ill write with the upmost respect to the gods as a mere mortal can.
+                    For some people this might sound unusual or even taboo, and if that’s how you feel, I understand.
+                    But if you’re curious and open to learning about our religion, then we welcome you with open arms.
+                    This website reflects how I practice and understand Hellenism, written with the utmost respect a mortal can offer the gods.
+                    If you’re skeptical, that’s okay — I hope what you read here helps you see our traditions with clarity and respect.
                 </p>
             </div>
 
@@ -31,7 +32,9 @@ function Home(){
             <div className="section">
                 <h3>About the religion</h3>
                 <p>
-                    Even though its an old religion, it still very hidden on what we can and cant do.
+                    Hellenism is the modern practice of the ancient Greek religion.
+                    Even though its roots go back thousands of years, the way we practice today is shaped by both tradition and the reality of living in the modern world. Much of the original religion was lost, scattered, or filtered through outside perspectives, so modern practitioners often rebuild our understanding through surviving texts, archaeology, philosophy, and community experience.
+                    At its core, Hellenism is about honoring the gods with respect, living with virtue, and recognizing the presence of the divine in the world around us. There isn’t one single “correct” way to practice — different people emphasize mythology, philosophy, household worship, festivals, or personal devotion. What you’ll find here reflects how I understand and live this religion, based on study, experience, and sincere respect for the Theoi.
                 </p>
             </div>
         </div>
