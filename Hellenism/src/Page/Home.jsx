@@ -1,20 +1,23 @@
+import "../style/main.css";
+
 function Home(){
     return (
-        <div>
-            {/*main title*/}
-            <h1>Hellenism</h1>
+        <div className="home-container">
 
-            {/*button layer will go here*/}
-            <div>
+            {/*main title*/}
+            <h1 className="home-title">Hellenism</h1>
+
+            {/*button layer*/}
+            <div className="button-row">
                 <button>Myth</button>
                 <button>Gods</button>
-                <button>Retrials</button>
+                <button>Rituals</button>
                 <button>Holiday</button>
                 <button>Prayers</button>
             </div>
 
             {/*mini welcome message*/}
-            <div>
+            <div className="section">
                 <h3>Welcome to Hellenism</h3>
                 <p>
                     Here you will learn that yes, we still worship the Greek gods.
@@ -25,13 +28,13 @@ function Home(){
             </div>
 
             {/*talking about the religion*/}
-            <div>
+            <div className="section">
                 <h3>About the religion</h3>
                 <p>
                     Even though its an old religion, it still very hidden on what we can and cant do.
                 </p>
             </div>
         </div>
-    )
+    );
 }
 export default Home;

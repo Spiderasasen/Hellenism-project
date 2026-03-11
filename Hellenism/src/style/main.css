@@ -1,0 +1,65 @@
+/* Overall page layout */
+.home-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: "Georgia", serif;
+    color: #2b2b2b;
+    line-height: 1.6;
+}
+
+/* Main title */
+.home-title {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #3a2f0b; /* warm, ancient-gold tone */
+}
+
+/* Button row */
+.button-row {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+
+.button-row button {
+    padding: 0.6rem 1.2rem;
+    border: 2px solid #c9a227;
+    background: white;
+    color: #3a2f0b;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.button-row button:hover {
+    background: #f7e7b2;
+    border-color: #b38a1e;
+}
+
+/* Section blocks */
+.section {
+    margin-bottom: 2.5rem;
+}
+
+.section h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: #3a2f0b;
+}
+
+.section p {
+    font-size: 1.1rem;
+    background: #faf7ef;
+    padding: 1rem;
+    border-left: 4px solid #c9a227;
+    border-radius: 4px;
+}
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
+}
